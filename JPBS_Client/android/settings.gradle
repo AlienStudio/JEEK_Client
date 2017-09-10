@@ -1,0 +1,3 @@
+rootProject.name = 'JPBS_Client'
+
+include ':app'
