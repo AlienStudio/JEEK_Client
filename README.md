@@ -1,5 +1,5 @@
-# JPBS_Client
-Mobile App for JPBS
+# JEEK_Client
+Mobile App for JEEK
 
 # Contributors
 Harvey Qiu
